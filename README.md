@@ -1,2 +1,2 @@
 # odin-landing-page
-This website is made from scratch
+This website was made to test my html and css coding skills. 
