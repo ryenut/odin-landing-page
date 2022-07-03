@@ -24,3 +24,8 @@ ul {
     display: flex;
     gap: 10px
 }
+
+.header {
+    justify-content: space-between;
+    margin: 0px 80px;
+}
