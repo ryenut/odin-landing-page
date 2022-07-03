@@ -8,3 +8,7 @@ body {
 .header, .footer {
     display: flex;
 }
+
+.footer {
+    justify-content: center;
+}
