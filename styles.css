@@ -43,6 +43,13 @@ ul {
     width: 90px;
     height: 90px;
     border: 2px solid darkslategray;
-    text-align: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
   }
 
+  .title {
+    display: flex:
+  }
+
+  
