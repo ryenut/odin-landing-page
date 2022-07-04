@@ -35,6 +35,7 @@ ul {
 
 .landing {
     display: flex;
+    justify-content: space-evenly;
   }
 
   .image {
