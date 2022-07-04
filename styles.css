@@ -33,3 +33,15 @@ ul {
     gap: 10px
 }
 
+.landing {
+    display: flex;
+  }
+
+  .image {
+    margin-top: 21px;
+    width: 90px;
+    height: 90px;
+    border: 2px solid darkslategray;
+    text-align: center;
+  }
+
