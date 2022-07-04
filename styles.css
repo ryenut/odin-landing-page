@@ -10,6 +10,11 @@ body {
     background-color: #1f2937;
 }
 
+.header {
+    justify-content: space-between;
+    padding: 0px 80px;
+}
+
 .footer {
     justify-content: center;
 }
@@ -26,7 +31,3 @@ ul {
     gap: 10px
 }
 
-.header {
-    justify-content: space-between;
-    margin: 0px 80px;
-}
