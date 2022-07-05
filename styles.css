@@ -37,12 +37,13 @@ ul {
     display: flex;
     justify-content: center;
     align-items: center;
+    gap: 80px;
   }
 
   .image {
     margin-top: 21px;
-    width: 90px;
-    height: 90px;
+    width: 450px;
+    height: 170px;
     border: 2px solid darkslategray;
     display: flex;
     justify-content: center;
