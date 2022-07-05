@@ -38,6 +38,8 @@ ul {
     justify-content: center;
     align-items: center;
     gap: 50px;
+    background-color: #1f2937;
+    color: white;
   }
 
   .image {
