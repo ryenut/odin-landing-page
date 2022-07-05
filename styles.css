@@ -60,4 +60,9 @@ ul {
     padding: 0px;
   }
 
+  img {
+    max-width: 150px;
+    height:120px  
+  }
+  
   
