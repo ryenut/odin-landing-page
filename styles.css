@@ -80,3 +80,8 @@ ul {
     font-size: 48px;
   }
   
+  .quote {
+    padding: 0px 270px 0px 270px;
+    font-style: italic;
+    font-size: 36px;
+  }
