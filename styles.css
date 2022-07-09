@@ -93,6 +93,6 @@ ul {
   .thor {
     font-weight: bold;
     font-size: 15px;
-    margin-right: 300px;
+    padding: 0px 20px;
     text-align: right;
   }
