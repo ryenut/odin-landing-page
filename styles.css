@@ -82,10 +82,10 @@ ul {
 
   .quotes {
     background-color: #e5e7eb;
+    padding: 100px 250px 50px 250px;
   }
   
   .quote {
-    padding: 0px 270px 0px 270px;
     font-style: italic;
     font-size: 36px;
   }
