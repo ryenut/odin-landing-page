@@ -79,6 +79,10 @@ ul {
   .random {
     font-size: 48px;
   }
+
+  .quotes {
+    background-color: #e5e7eb;
+  }
   
   .quote {
     padding: 0px 270px 0px 270px;
