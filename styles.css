@@ -85,3 +85,10 @@ ul {
     font-style: italic;
     font-size: 36px;
   }
+
+  .thor {
+    font-weight: bold;
+    font-size: 15px;
+    margin-right: 300px;
+    text-align: right;
+  }
