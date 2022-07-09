@@ -96,3 +96,9 @@ ul {
     padding: 0px 20px;
     text-align: right;
   }
+
+  .contacts {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
