@@ -101,4 +101,7 @@ ul {
     display: flex;
     align-items: center;
     justify-content: center;
+    margin: 50px 250px 50px 250px;
+    background: #3882f6;
+    padding: 20px;
   }
