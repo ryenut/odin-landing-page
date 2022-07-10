@@ -106,3 +106,13 @@ ul {
     padding: 20px;
     border-radius: 10px;
   }
+
+  .call {
+    display: flex;
+    flex-direction: column;
+  }
+
+  .right {
+    display: flex;
+    align-items: center;
+  }
