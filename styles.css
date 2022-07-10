@@ -13,7 +13,7 @@ body {
 
 .header {
     justify-content: space-between;
-    padding: 0px 80px;
+    padding: 0px 180px;
 }
 
 .footer {
@@ -35,12 +35,10 @@ ul {
 
 .landing {
     display: flex;
-    justify-content: center;
-    align-items: center;
     gap: 50px;
     background-color: #1f2937;
     color: white;
-    padding: 70px 0px 70px;
+    padding: 70px 180px 70px;
   }
 
   .image {
@@ -52,12 +50,12 @@ ul {
     background-color: gray;
   }
 
-  .title {
+  /* .title {
     width: 360px;
     height: 200px;
     border: 2px transparent;
     padding: 0px;
-  }
+  } */
 
   img {
     max-width: 150px;
